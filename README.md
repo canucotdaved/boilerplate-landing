@@ -8,5 +8,7 @@ The availability of utility classes makes it easier to build complex responsive 
 
 ## Get Started
 > git clone https://github.com/canucotdaved/boilerplate-landing
+
 > npm install / yarn 
+
 > yarn tailwind
